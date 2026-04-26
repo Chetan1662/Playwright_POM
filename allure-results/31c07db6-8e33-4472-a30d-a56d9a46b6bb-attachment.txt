@@ -1,0 +1,4 @@
+Application is opened
+login is successfull
+title verified
+logout is successfull

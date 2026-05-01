@@ -1,0 +1,5 @@
+Application is opened
+login is successfull
+title verified
+employee added successfully
+logout is successfull
